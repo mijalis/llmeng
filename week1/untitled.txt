@@ -1,0 +1,4 @@
+Choice(finish_reason='tool_calls', index=0, logprobs=None, message=ChatCompletionMessage(content=None, refusal=None, role='assistant', annotations=[], audio=None, function_call=None, tool_calls=[ChatCompletionMessageToolCall(id='call_DobvskX7UqEAtG5c684xLLrV', function=Function(arguments='{"city":"Paris"}', name='get_ticket_price'), type='function')]))
+
+
+[ChatCompletionMessageToolCall(id='call_DkKWUdJOllBJPke8zTuLgfuY', function=Function(arguments='{"city": "Tokyo"}', name='get_ticket_price'), type='function'), ChatCompletionMessageToolCall(id='call_zs0bRJ6xF1mPHEFFZf14I5dH', function=Function(arguments='{"city": "Tokyo"}', name='get_weather'), type='function')]
