@@ -189,3 +189,5 @@ nohup.out
 *.png
 
 scraper_cache/
+
+*.mp3
